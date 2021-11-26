@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhananjaymudgule
-- 👀 I’m interested in Python, Data Science, Machine Learning, Deep Learning, Time Series Analysis and Artificial Intelligence 
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Data mining, Time Series Analysis and Artificial Intelligence by using Python.
 - 🌱 I’m currently learning Time Series Analysis
-- 💞️ I’m looking to collaborate on Python, Data Science, Machine Learning, Deep Learning, Time Series Analysis and Artificial Intelligence 
+- 💞️ I’m looking to collaborate on Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Data mining, Time Series Analysis and Artificial Intelligence by using Python. 
 - 📫 How to reach me dhananjaymudgule@gmail.com
 
 <!---
