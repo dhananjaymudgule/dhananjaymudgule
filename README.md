@@ -17,9 +17,9 @@
 - **Other Tools**: Docker, Postman, Git, GitHub, Zapier, Notion  
 
 ### AI/ML Expertise  
-- Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation)  
+- AI Agents, Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation), Vector Databases  
 - Fine-tuning and deploying Open & Closed-source LLMs (OpenAI, Google, Meta, Mistral)  
-- Natural Language Processing (NLP), Neural Networks, Vector Databases  
+- Natural Language Processing (NLP), Neural Networks  
 
 ---
 
