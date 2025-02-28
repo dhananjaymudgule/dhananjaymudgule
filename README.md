@@ -1,6 +1,6 @@
 # Hi, I'm Dhananjay Mudgule! 👋  
 
-🎯 **AI Engineer | Data Scientist** with 4+ years of experience developing and deploying cutting-edge AI and data science solutions. Passionate about leveraging **Generative AI**, **LLM**, **RAG**, **AI Agents** and **Machine Learning** to solve complex business problems, in the domains like healthcare, finance etc.
+🎯 **AI Engineer | Data Scientist** with 3+ years of experience developing and deploying cutting-edge AI and data science solutions. Passionate about leveraging **Generative AI**, **LLM**, **RAG**, **AI Agents** and **Machine Learning** to solve complex business problems, in the domains like healthcare, finance etc.
 
 ---
 
