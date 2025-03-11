@@ -46,22 +46,14 @@
 
 ---
 
-## 🎯 Core Responsibilities  
+## 🎯 Core Expertise
 - Building Generative AI, RAG, AI Agents project  
 - API Development with **FastAPI** and **Flask**  
 - Deploying APIs on **Google Cloud** and **AWS**  
 - Containerization using **Docker**  
 - Rapid Prototyping with **Streamlit** and **Chainlit**  
 - CI/CD Pipeline Setup with **GitHub Actions**  
-
----
-
-## 🎓 Education  
-- **B.Tech**: Dr. BATU, Lonere, Raigad – 7.20 CGPA  
-- **Diploma**: Government Polytechnic, Nagpur – 84%  
-- **HSC**: Shivshakti Jr College, Nanded – 72%  
-- **SSC**: Sri Shivaji High School, Nanded – 86%  
-
+ 
 ---
 
 ## 🌐 Let’s Connect!  
