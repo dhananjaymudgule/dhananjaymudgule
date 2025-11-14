@@ -1,6 +1,6 @@
 # Hi, I'm Dhananjay Mudgule! 👋  
 
-🎯 **AI Engineer | Data Scientist** with 3+ years of experience developing and deploying cutting-edge AI and data science solutions. Passionate about leveraging **Generative AI**, **LLM**, **RAG**, **AI Agents** and **Machine Learning** to solve complex business problems, in the domains like healthcare, finance etc.
+🎯 **AI Engineer | Data Scientist** with 4+ years of experience developing and deploying cutting-edge AI and data science solutions. Passionate about leveraging **Generative AI**, **LLM**, **RAG**, **AI Agents** and **Machine Learning** to solve complex business problems, in the domains like healthcare, finance etc.
 
 ---
 
@@ -8,16 +8,16 @@
 
 ### Programming & Tools  
 - **Languages**: Python, SQL  
-- **Frameworks**: TensorFlow, PyTorch, LangChain, LlamaIndex, Streamlit, Chainlit, FastAPI, Flask  
+- **Frameworks**: LangChain, Langraph, CrewAI, Unsloth,FastAPI, Flask, TensorFlow, PyTorch, LlamaIndex, Streamlit, Chainlit,  
 - **Cloud Platforms**:  
-  - Google Cloud: Vertex AI, Document AI, Cloud Storage, BigQuery, Cloud Run, and more  
-  - AWS: SageMaker, Textract, Rekognition, Lambda, and others  
+  - Google Cloud: Vertex AI, Document AI, Cloud Storage, BigQuery, Cloud Run, Cloud Function and more  
+  - AWS: Bedrock, SageMaker, Textract, Rekognition, Lambda, S3, EC2, Comprehension and others  
   - Azure: Computer Vision, OCR  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Other Tools**: Docker, Postman, Git, GitHub, Zapier, Notion  
 
 ### AI/ML Expertise  
-- AI Agents, Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation), Vector Databases  
+- Agentic AI, AI Agents, RAG, Generative AI (LLMs, Prompt Engineering, Retrieval-Augmented Generation), Vector Databases  
 - Fine-tuning and deploying Open & Closed-source LLMs (OpenAI, Google, Meta, Mistral)  
 - Natural Language Processing (NLP), Neural Networks  
 
